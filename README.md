@@ -1,2 +1,2 @@
 # gjp
-This is Simple MVC note
+管家婆项目,基于MVC设计模式,设计的一个练手项目
